@@ -36,23 +36,23 @@ The system collects live hardware telemetry, stores historical performance data,
 
 System Telemetry
 
-↓
+     ↓
 
 Data Collection
 
-↓
+     ↓
 
 CSV Storage
 
-↓
+     ↓
 
 Machine Learning Model
 
-↓
+    ↓
 
 Risk Prediction
 
-↓
+    ↓
 
 Dashboard Visualization
 
