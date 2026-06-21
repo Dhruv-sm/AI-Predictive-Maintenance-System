@@ -8,6 +8,20 @@ The system collects live hardware telemetry, stores historical performance data,
 
 ---
 
+## Dashboard
+
+<img width="1847" height="950" alt="Screenshot 2026-06-21 164134" src="https://github.com/user-attachments/assets/20c0fdf3-c2f8-4c8c-b735-b70a32c832b2" />
+
+<img width="1725" height="742" alt="Screenshot 2026-06-21 164154" src="https://github.com/user-attachments/assets/672d70da-a128-4cbf-9ec4-341e0ecda215" />
+
+<img width="1732" height="607" alt="Screenshot 2026-06-21 164205" src="https://github.com/user-attachments/assets/0db0b144-22cd-4bc6-a40a-85f5463a1961" />
+
+<img width="1760" height="576" alt="Screenshot 2026-06-21 164215" src="https://github.com/user-attachments/assets/d1483189-f517-49fc-971f-753647afc12b" />
+
+<img width="1758" height="677" alt="Screenshot 2026-06-21 164228" src="https://github.com/user-attachments/assets/79becf6b-da44-4d4a-ab56-aa5c2c8825fa" />
+
+---
+
 ## Features
 
 * Real-time CPU monitoring
