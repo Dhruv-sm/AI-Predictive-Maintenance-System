@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+data/system_metrics.csv
+models/risk_model.pkl
